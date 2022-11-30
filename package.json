@@ -11,5 +11,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Sherifdeen Ishola"
+	"author": "Sherifdeen Ishola",
+	"description": "A learning project from FCC",
+	"engines": {
+        "node": "v16.17.1"
+  }
 }
