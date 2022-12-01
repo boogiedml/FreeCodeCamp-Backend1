@@ -13,6 +13,7 @@
 	},
 	"author": "Sherifdeen Ishola",
 	"description": "A learning project from FCC",
+	"keywords": [ "Free Code Camp", "web development", "backend" ],
 	"engines": {
         "node": "v16.17.1"
   }
