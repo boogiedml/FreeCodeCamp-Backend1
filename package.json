@@ -13,7 +13,8 @@
 	},
 	"author": "Sherifdeen Ishola",
 	"description": "A learning project from FCC",
-	"keywords": [ "freecodecamp", "web development", "backend" ],
+	"keywords": [ "freecodecamp", "web development", "backend" ], 
+	"license": "MIT",
 	"engines": {
         "node": "v16.17.1"
   }
